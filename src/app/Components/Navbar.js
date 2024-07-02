@@ -36,7 +36,7 @@ function Navbar() {
                     className="flex justify-center p-8 w-full ">
                     <motion.a
                         variants={variants}
-                        href=""
+                        href="Writings"
                         className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
                         rel="noopener noreferrer"
                     >
@@ -53,7 +53,7 @@ function Navbar() {
 
                     <motion.a
                         variants={variants}
-                        href=""
+                        href="About"
                         className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800 hover:dark:bg-opacity-30"
                         rel="noopener noreferrer"
                     >
@@ -70,7 +70,7 @@ function Navbar() {
 
                     <motion.a
                         variants={variants}
-                        href=""
+                        href="/Music"
                         className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
                         rel="noopener noreferrer"
                     >
