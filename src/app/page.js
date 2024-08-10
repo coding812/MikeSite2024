@@ -47,13 +47,14 @@ export default function Home() {
           />
         </div>
         <div className="flex flex-col items-center justify-center p-8 space-y-4 text-center lg:space-y-0 lg:pl-20 lg:text-left">
-          <h1 className="text-4xl font-bold text-neutral-900 dark:text-neutral-100">
+          <h1 className="text-5xl mb-4 font-bold text-neutral-900 dark:text-neutral-100">
             Mike McDowell, PhD.
           </h1>
-          
-          <p className="text-lg text-neutral-700 dark:text-neutral-300">
-            Job Title, Company
-            
+          <p className="text-xl text-neutral-700 dark:text-neutral-300">
+            Doctor of Philosophy - Communication
+          </p>
+          <p className="text-xl text-neutral-700 dark:text-neutral-300">
+            Instructor, Univeristy of South Florida
           </p>
           </div>
 
